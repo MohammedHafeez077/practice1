@@ -1,0 +1,2 @@
+Hello git and git hub >>lab1.txt
+echo Hello git and git hub
